@@ -3,7 +3,7 @@ This project highlights the ETL process to fully analyze data from Kaggle/Wikipe
 
 ## Deliverable 1
 Wikipedia movies dataframe
-![alt text]https://github.com/mooshak21/Movies-ETL/blob/main/Resources/D1_1.png
+![alt text](https://github.com/mooshak21/Movies-ETL/blob/main/Resources/D1_1.png)
 
 Kaggle metadata
 
